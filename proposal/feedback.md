@@ -1,0 +1,3 @@
+## Feedback
+I can't find your proposal file so I assume it's the one submitted by Anushka...
+This proposal is pretty clear and I like that you already dug into the leaderboard and related papers. The idea itself is totally reasonable for the project and the malware setting gives you plenty to experiment with. One thing that stood out is that the list of models is a bit too long (if you can pull it off that would be amazing of course :)). Another small thing is the evaluation description. It would help to mention how you plan to deal with class imbalance (if exist) since malware data is usually pretty uneven. Aside from that, the overall structure makes sense and should be manageable.

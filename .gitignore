@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# CatBoost training logs / metadata
+final/catboost_info/
+
+# TensorBoard / training events
+*.tfevents
+
+# Jupyter checkpoints (optional)
+.ipynb_checkpoints/
